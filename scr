@@ -1,1 +1,14 @@
-<script>alert("123")</script>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Alert Example</title>
+    <script>
+        // Вызов alert сразу после загрузки страницы
+        alert("Hello from Alert!");
+    </script>
+</head>
+<body>
+    <h1>Страница с примером alert</h1>
+    <p>После загрузки страницы должно появиться всплывающее окно.</p>
+</body>
+</html>
